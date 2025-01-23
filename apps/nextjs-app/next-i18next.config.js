@@ -30,7 +30,7 @@ const localePath = getLocalPath();
 module.exports = {
   i18n: {
     defaultLocale,
-    locales: ['en', 'zh', 'fr', 'ja', 'ru'],
+    locales: ['en', 'zh', 'fr', 'ja', 'pt', 'ru'],
   },
   saveMissing: false,
   strictMode: true,
